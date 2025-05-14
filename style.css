@@ -1,0 +1,172 @@
+body{
+    background-color: #fff2fb;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    /* text-align: center; */
+  
+}
+nav ul li a{
+    text-decoration: none;
+    
+}
+  .login a{
+    float: right;
+    background-color: #ff97ba;
+    border-radius: 30px;
+    text-align: center;
+    list-style-type: none;
+    padding: 10px 20px 10px 20px;
+}
+
+.login {
+    padding-right: 10px;
+}
+
+a{
+    color: #542323;
+    display: block;
+    padding: 8px;
+    /* background-color: #dddddd; */
+    padding-right: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+li {
+    float: left;
+  }
+li .logo{
+    /* padding-right: 330px; */
+    font-size: 25px;
+}
+.nav{
+  float: none;
+  position: absolute;
+  /* top: 50%; */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 40px;
+}
+
+.writing{
+    float: none;
+    position: absolute;
+    top: 30%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    padding-top: 40px;
+}
+p1{
+    font-size: 60px;
+    color: #542323;
+}
+p2{
+    color: #ff97ba;
+    font-size: 40px;
+    transform: translate(-50%, -50%);
+    
+}
+.box{
+    width: 596px;
+    height: 400px;
+    background-color: #ff97ba;
+    border-radius: 30px;
+    transform: translate(-50%, -50%);;
+    float: none;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    /* transform: translate(-50%, -50%); */
+    padding-top: 40px;
+    color: #200e0e;
+}
+.welcome{
+    font-family: "Montaga", serif;
+    float: none;
+    position: absolute;
+    top: 13%;
+    /* transform: translate(-50%, -50%); */
+    left: 32%;
+    font-size: 50px;
+    color: #230f0f;
+}
+
+gl{
+    font-family: "Montserrat", sans-serif;
+    color: #ff97ba;
+}
+w{
+    font-weight: 400;
+}
+
+
+/* .isi1 form{
+    width: 400px;
+    height: 40px;
+    background-color: #fff2fb;
+    outline: none;
+    border-radius: 50px;
+} */
+
+.box{
+    padding-left: 30px;
+}
+
+.login2{
+    margin-top: 33px;
+    margin-left: 230px;
+    width: 88px;
+    height: 40px;
+    background-color: #fffdfe;
+    border-radius: 20px;
+    color: #251010;
+    padding-left:3px;
+   
+}
+.login2 p{
+    padding: 9px;
+}
+.login2:hover{
+    cursor: pointer;
+    background-color: #ffd5e4;
+
+}
+e{
+    color: #ff97ba;
+}
+
+.writing-done{
+    float: none;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 40px;
+}
+.getst{
+    width: 149px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    
+    border-radius: 20px;
+    /* color: #251010; */
+
+}
+button{
+
+    background-color: #ff97ba;
+    border-radius: 30px;
+    border: none;
+}
+pr{
+    padding-left: 2px;
+}
+.alr{
+   margin-top: -19px;
+   font-size: 14px;
+}
